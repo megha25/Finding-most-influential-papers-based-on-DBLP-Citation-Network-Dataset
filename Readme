@@ -1,0 +1,7 @@
+This Source files folder contains following files:
+
+Hive src :  Which includes all the queries fired in hive to compute top 10 papers with highest page rank.
+
+Linkgraph src : Which includes Driver class, Mapper class and DBLP input class producing the index and corresponding citations.
+
+Titlegraph src : Which includes Driver class, Mapper class and DBLP input class gives title corresponding to index. 
